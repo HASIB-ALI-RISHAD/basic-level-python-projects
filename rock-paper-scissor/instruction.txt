@@ -1,0 +1,5 @@
+Despite its underlying complexity, the game’s rules are straightforward.
+
+1. Rock wins against scissors.
+2. Scissors win against paper.
+3. Paper wins against rock.
