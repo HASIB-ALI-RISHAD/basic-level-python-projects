@@ -29,7 +29,7 @@ print("Welcome to the Rock, Paper, Scissors Game!")
 user_choice = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.\n"))
 
 
-if user_choice <= 2 and user_choice > 0:
+if 0 <= user_choice <= 2:
     print("Your choice:")
 
     if user_choice == 0:
