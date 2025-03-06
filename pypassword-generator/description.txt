@@ -1,0 +1,12 @@
+Description:
+This is a random password generator in Python that allows users to specify the number of letters, symbols, and numbers they want in their password. The program then creates a secure password with these specifications and shuffles the characters for added randomness.
+
+Instructions:
+Run the script.
+Enter the number of letters, symbols, and numbers you want in your password.
+The program will generate a password and display it.
+
+Key Features:
+Uses random.choice() to select characters.
+Stores selected characters in a list and shuffles them for randomness.
+Prints the generated password at the end.
