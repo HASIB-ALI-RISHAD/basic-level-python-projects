@@ -1,5 +1,19 @@
-Despite its underlying complexity, the game’s rules are straightforward.
+Description:
+This is a Rock, Paper, Scissors game in Python where the user plays against the computer. The user selects Rock (0), Paper (1), or Scissors (2), and the program randomly generates the computer’s choice. It then determines the winner based on the standard game rules.
 
+Instructions:
+Run the script.
+Enter 0 for Rock, 1 for Paper, or 2 for Scissors when prompted.
+The program will display your choice, the computer’s choice, and the game result (Win, Lose, or Draw).
+
+
+Despite its underlying complexity, the game’s rules are straightforward.
 1. Rock wins against scissors.
 2. Scissors win against paper.
 3. Paper wins against rock.
+4. If both choices are the same, it’s a draw.
+5. If the input is invalid, the user automatically loses.
+
+
+
+
